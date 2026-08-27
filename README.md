@@ -1,6 +1,6 @@
 ## 你好，这里是 yuanfangdeshanlaoou 🔍
 
-网络安全方向深耕中（Web逻辑漏洞 / 协议层安全 / IoT安全研究）
+金融学本科在读 · 网络安全方向深耕中（Web逻辑漏洞 / 协议层安全 / IoT安全研究）
 
 ### 📌 精选项目
 - **[iot-cloud-security-research](https://github.com/yuanfangdeshanlaoou/iot-cloud-security-research)** — IoT端云联动安全研究：Android native层so逆向 · MQTT二进制协议分析 · 业务逻辑风险研究（含CRC16校验算法还原、双层签名机制分析、配套CLI工具）
